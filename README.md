@@ -1,5 +1,5 @@
 ### Намасте 👋, меня зовут Павел
-#### Я не начинающий веб-разработчик
+#### Я не начинающий веб-разработчик :sunglasses:
 [<img src='https://repository-images.githubusercontent.com/284969099/d32ff380-8d4f-11eb-8b01-25ad97a7a775' alt='github' style="margin: 0 auto;" width='60%'>](https://sumere4ny.github.io/yandex-portfolio/)
 
 По образованию я психолог, специализация «Психолог. Преподаватель психологии». Выпустился в мае 2009 года в звании специалиста. Проработав какое-то время на удаленных проектах, я последовательно получил навыки сначала SEO-специалиста, затем HTML-верстальщика и веб-разработчика. Фронтенд мне нравится тем, что можно наглядно и быстро увидеть результаты своей работы. Кроме того, здесь можно задействовать еще эстетическую составляющую.
@@ -13,9 +13,9 @@
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/sumere4ny)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/sumere4ny/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/UCU1vXdxHgFXhH0mageU5oNg)  
 
-[![ТОП языков](https://github-readme-stats.vercel.app/api/top-langs/?username=sumere4ny)](https://github.com/anuraghazra/github-readme-stats)
+[![ТОП языков](https://github-readme-stats.vercel.app/api/top-langs/?username=sumere4ny&langs_count=3&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=sumere4ny&show_icons=true)  
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=sumere4ny)  
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=sumere4ny&theme=radical)  
 

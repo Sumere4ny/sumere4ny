@@ -23,10 +23,17 @@
 
 - 🔭 Сейчас я работаю веб-разработчиком в Управлении образования г.о. Дубна 
 
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/sumere4ny)  
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/sumere4ny/)  
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/UCU1vXdxHgFXhH0mageU5oNg)  
+<p align='center'>
+  <a href='https://github.com/sumere4ny'>
+    <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>
+  </a>  
+  <a href='https://www.linkedin.com/in/sumere4ny/'>
+    <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>
+  </a>
+  <a href='https://www.youtube.com/channel/UCU1vXdxHgFXhH0mageU5oNg'>
+    <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>
+  </a>
+</p>
 <p align='center'>
   <a href='https://github.com/anuraghazra/github-readme-stats'>
     <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=sumere4ny&langs_count=4&layout=compact'>

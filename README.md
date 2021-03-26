@@ -1,12 +1,19 @@
 ### Намасте 👋, меня зовут Павел
-#### Я не начинающий веб-разработчик :sunglasses:
-[<img src='https://repository-images.githubusercontent.com/284969099/d32ff380-8d4f-11eb-8b01-25ad97a7a775' alt='github' style="margin: 0 auto;" width='60%'>](https://sumere4ny.github.io/yandex-portfolio/)
+#### Я не начинающий веб-разработчик:sunglasses:
+[<img align='center' src='https://repository-images.githubusercontent.com/284969099/d32ff380-8d4f-11eb-8b01-25ad97a7a775' alt='github' width='60%'>](https://sumere4ny.github.io/yandex-portfolio/)
 
 По образованию я психолог, специализация «Психолог. Преподаватель психологии». Выпустился в мае 2009 года в звании специалиста. Проработав какое-то время на удаленных проектах, я последовательно получил навыки сначала SEO-специалиста, затем HTML-верстальщика и веб-разработчика. Фронтенд мне нравится тем, что можно наглядно и быстро увидеть результаты своей работы. Кроме того, здесь можно задействовать еще эстетическую составляющую.
 
 Сейчас для меня крайне важно актуализировать свои прежние знания, вникнуть в современные технологии веб-разработки и стать в итоге востребованным и надежным специалистом. Также я чувствую необходимость более плотно понять серверную составляющую веб-разработки, бэкенд. Хотелось бы делать реальный продукт, который будет востребован и создан с моим личным участием. И развиваться дальше, конечно же.
 
-Скиллы: HTML / CSS / JavaScript / VUE JS / REACT / Node.js / Express / Python
+Скиллы: 
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS" height="24" >
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="22">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React" height="22">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="NodeJS" height="22">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" alt="Express" height="22">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" alt="Express" height="22">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="git" height="22">
 
 - 🔭 Сейчас я работаю веб-разработчиком в Управлении образования г.о. Дубна 
 

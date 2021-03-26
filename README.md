@@ -39,12 +39,12 @@
     <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=sumere4ny&langs_count=4&layout=compact'>
   </a>
 </p>
-<div>
+<div style='display: flex; justify-content: space-between;'>
   <a href='https://github-readme-stats.vercel.app/api?username=sumere4ny&show_icons=true'>
-    <img src='https://github-readme-stats.vercel.app/api?username=sumere4ny&show_icons=true'>
+    <img src='https://github-readme-stats.vercel.app/api?username=sumere4ny&show_icons=true' width='49%'>
   </a>  
 
   <a href='https://github-readme-streak-stats.herokuapp.com/?user=sumere4ny&theme=radical'>
-    <img src='https://github-readme-streak-stats.herokuapp.com/?user=sumere4ny&theme=radical'>
+    <img src='https://github-readme-streak-stats.herokuapp.com/?user=sumere4ny&theme=radical' width='49%'>
   </a>  
 </div>
